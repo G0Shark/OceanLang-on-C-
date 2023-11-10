@@ -1,0 +1,14 @@
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\obj\Debug\net7.0\OceanLang_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\obj\Debug\net7.0\OceanLang_2.AssemblyInfoInputs.cache
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\obj\Debug\net7.0\OceanLang_2.AssemblyInfo.cs
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\obj\Debug\net7.0\OceanLang_2.csproj.CoreCompileInputs.cache
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\bin\Debug\net7.0\OceanLang_2.exe
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\bin\Debug\net7.0\OceanLang_2.deps.json
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\bin\Debug\net7.0\OceanLang_2.runtimeconfig.json
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\bin\Debug\net7.0\OceanLang_2.dll
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\bin\Debug\net7.0\OceanLang_2.pdb
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\obj\Debug\net7.0\OceanLang_2.dll
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\obj\Debug\net7.0\refint\OceanLang_2.dll
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\obj\Debug\net7.0\OceanLang_2.pdb
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\obj\Debug\net7.0\OceanLang_2.genruntimeconfig.cache
+C:\Users\G0Shark_\Desktop\Workinprogress\OceanLang_2\obj\Debug\net7.0\ref\OceanLang_2.dll
